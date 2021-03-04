@@ -1,0 +1,13 @@
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.exe
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.deps.json
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.runtimeconfig.json
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.runtimeconfig.dev.json
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.dll
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\bin\Debug\netcoreapp3.1\Palindrome_Whiteboarding.pdb
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.csprojAssemblyReference.cache
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.AssemblyInfoInputs.cache
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.AssemblyInfo.cs
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.csproj.CoreCompileInputs.cache
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.dll
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.pdb
+C:\Users\miser\source\repos\Palindrome_Whiteboarding\Palindrome_Whiteboarding\obj\Debug\netcoreapp3.1\Palindrome_Whiteboarding.genruntimeconfig.cache

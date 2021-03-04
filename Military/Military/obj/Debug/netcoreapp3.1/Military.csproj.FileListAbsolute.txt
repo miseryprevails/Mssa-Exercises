@@ -1,0 +1,13 @@
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.exe
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.deps.json
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.runtimeconfig.json
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.runtimeconfig.dev.json
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.dll
+C:\Users\miser\source\repos\Military\Military\bin\Debug\netcoreapp3.1\Military.pdb
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.csprojAssemblyReference.cache
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.AssemblyInfoInputs.cache
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.AssemblyInfo.cs
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.csproj.CoreCompileInputs.cache
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.dll
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.pdb
+C:\Users\miser\source\repos\Military\Military\obj\Debug\netcoreapp3.1\Military.genruntimeconfig.cache

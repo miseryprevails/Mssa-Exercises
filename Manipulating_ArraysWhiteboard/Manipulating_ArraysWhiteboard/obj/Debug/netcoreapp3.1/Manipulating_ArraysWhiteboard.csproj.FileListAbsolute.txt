@@ -1,0 +1,13 @@
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.exe
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.deps.json
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.runtimeconfig.json
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.runtimeconfig.dev.json
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.dll
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\bin\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.pdb
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.csprojAssemblyReference.cache
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.AssemblyInfoInputs.cache
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.AssemblyInfo.cs
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.csproj.CoreCompileInputs.cache
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.dll
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.pdb
+C:\Users\miser\source\repos\Manipulating_ArraysWhiteboard\Manipulating_ArraysWhiteboard\obj\Debug\netcoreapp3.1\Manipulating_ArraysWhiteboard.genruntimeconfig.cache

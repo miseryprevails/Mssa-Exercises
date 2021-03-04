@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Manipulating_ArraysWhiteboard/1.0.0": {
+        "runtime": {
+          "Manipulating_ArraysWhiteboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipulating_ArraysWhiteboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
