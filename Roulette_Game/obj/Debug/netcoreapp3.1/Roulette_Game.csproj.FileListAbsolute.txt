@@ -1,0 +1,13 @@
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.exe
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.deps.json
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.runtimeconfig.json
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.runtimeconfig.dev.json
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.dll
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\bin\Debug\netcoreapp3.1\Roulette_Game.pdb
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.csprojAssemblyReference.cache
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.AssemblyInfoInputs.cache
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.AssemblyInfo.cs
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.csproj.CoreCompileInputs.cache
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.dll
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.pdb
+C:\Users\miser\source\repos\Roulette_Game\Roulette_Game\obj\Debug\netcoreapp3.1\Roulette_Game.genruntimeconfig.cache
