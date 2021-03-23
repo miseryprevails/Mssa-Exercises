@@ -49,25 +49,25 @@ namespace Roulette_Game
                     youWon = bet.NumberBet(landed);
                     if (youWon == true)
                     {
-                        Console.WriteLine("WINNER");
+                        Console.WriteLine("win");
                     }
-                    else Console.WriteLine("YAH FUCKIN LOST");
+                    else Console.WriteLine("lose");
                     break;
                 case 2:
                     youWon = bet.EvenOrOdd(landed);
                     if (youWon == true)
                     {
-                        Console.WriteLine("Winner");
+                        Console.WriteLine("Win");
                     }
-                    else Console.WriteLine("Broke Bitch");
+                    else Console.WriteLine("Lose");
                     break;
                 case 3:
                     youWon = bet.ColorLand(color, landed);
                     if (youWon == true)
                     {
-                        Console.WriteLine("Win Win");
+                        Console.WriteLine( "Win");
                     }
-                    else Console.WriteLine("Loser");
+                    else Console.WriteLine("Lose");
                     break;
                 case 4:
                     youWon = bet.LowHigh(landed);
