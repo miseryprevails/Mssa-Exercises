@@ -1,0 +1,13 @@
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.exe
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.deps.json
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.runtimeconfig.json
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.runtimeconfig.dev.json
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.dll
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\bin\Debug\netcoreapp3.1\Cesar_Encrypt.pdb
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.csprojAssemblyReference.cache
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.AssemblyInfoInputs.cache
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.AssemblyInfo.cs
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.dll
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.pdb
+C:\Users\miser\Desktop\Cesar_Encrypt\Cesar_Encrypt\obj\Debug\netcoreapp3.1\Cesar_Encrypt.genruntimeconfig.cache
